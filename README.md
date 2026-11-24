@@ -1,4 +1,4 @@
-# 🎵 MusicStream Streaming & Incremental ETL Lakehouse
+# 🎵 MusicStream Incremental & Streaming ETL Lakehouse
 
 An Azure data engineering project that brings together metadata-driven ingestion, incremental data processing, and Lakehouse architecture using Azure Data Factory, ADLS Gen2, and Azure Databricks. The project focuses on building reusable ingestion pipelines, managing data quality, and organizing Databricks resources through Databricks Asset Bundles (DABs).
 
